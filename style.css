@@ -1,0 +1,25 @@
+.header-container {
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    height: 50px;
+  }
+  h1 {
+    padding-top: 100px;
+    padding-left: 100px;
+    display: inline;
+  }
+  
+  .buttons-container {
+    display: flex;
+  }
+  
+  button {
+    /* height: 100%; */
+    margin-right: 10px;
+  }
+  
+  hr{
+    border-top: 1px solid #000; 
+  }
