@@ -1,0 +1,22 @@
+body{
+    background-color: darkgray;
+    margin: 0;
+}
+
+header{
+    background-color:rgb(236, 236, 236);
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    padding: 50px;
+    font-size: 30px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
