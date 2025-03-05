@@ -1,4 +1,4 @@
-import{ deleteAction }from './fanction_contents.js'
+import{ deleteAction }from './fanction/fanction_contents.js'
 
 
 const deleteButton = document.querySelector('button[name="delete"]');

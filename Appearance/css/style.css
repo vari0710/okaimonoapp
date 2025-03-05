@@ -1,5 +1,5 @@
   .header-container {
-    background-color: red;
+    /* background-color: red; */
     display: flex;
     justify-content: space-between;
     padding: 30px;
@@ -17,8 +17,9 @@
   }
   
   button {
-    /* height: 100%; */
     margin-right: 10px;
+    font-size: 20px;
+    padding: 10px;
   }
   
   hr{
